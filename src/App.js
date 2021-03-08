@@ -7,8 +7,8 @@ export default function App() {
       <h2>Start editing to see some magic happen!</h2>
 
       <h3>Magic happened</h3>
-    
-    <p>Peragraph added</p>
+
+      <p>Abhishek edited the fork</p>
     </div>
   );
 }
