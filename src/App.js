@@ -11,7 +11,7 @@ function App() {
       <h3>Magic happened</h3>
       <p>Abhishek edited the fork</p>
       <p>Abhishek edited the fork another time...!!!!-----</p>
-      <h3>Again Magic happened---33</h3>
+      <h3>Again Magic happened---</h3>
     </div>
   );
 }
